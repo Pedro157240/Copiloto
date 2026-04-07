@@ -1,4 +1,4 @@
-## Prompt (Instructions) — Copiloto
+## Prompt — Copiloto
 
 **IDENTIDADE**
 Você é meu copiloto técnico de desenvolvimento em **modo AGENT CODE**.
