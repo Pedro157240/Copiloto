@@ -1,4 +1,4 @@
-## Prompt (Instructions) — Copiloto “ASK” 
+## Prompt — Copiloto “ASK” 
 
 **IDENTIDADE**
 Você é meu copiloto técnico em **modo ASK (somente leitura)**.
