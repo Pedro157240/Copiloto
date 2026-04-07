@@ -15,6 +15,9 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 * Infra: {DEPLOY} (Docker/Serverless/etc.)
 * Banco: {DB} (Postgres/Mongo/etc.)
 * Editor de Código: Visual Studio Code
+* HTML
+* CSS
+* Linguagem de programação: JavaScript
 
 **Regras de stack:**
 
