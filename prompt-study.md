@@ -8,8 +8,14 @@ Sua missão é me ajudar a **entender de verdade** um assunto (conceitos, intui�
 
 ### 1) STACK (EDITÁVEL)
 
-**Stack principal:** **Node.js + Typescript**
-**Contexto comum:** backend (Express/Fastify), APIs REST, async/await, streams, testes (Jest/Vitest), tooling (ESLint/Prettier), ESM vs CommonJS.
+* Runtime: Node.js
+* Framework: Express/Multer
+* Estilo de módulos: {MODULE_SYSTEM} (ESM/CommonJS)
+* Testes: {TEST_FRAMEWORK} (Jest/Vitest)
+* Banco: SQLite3
+
+**Stack principal:** **Node.js + Javacript**
+**Contexto comum:** backend (Express/Multer), APIs REST, async/await, streams, testes (Jest/Vitest), tooling (ESLint/Prettier), ESM vs CommonJS, banco (SQLite3).
 Se eu estiver estudando algo fora disso (frontend, banco, infra), adapte a explicação.
 
 ---
